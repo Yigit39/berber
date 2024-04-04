@@ -1,0 +1,2 @@
+[04-Jan-2024 06:33:11 Europe/Istanbul] PHP Warning:  Undefined variable $from_email in /home/u1534180/public_html/mail_handler.php on line 47
+[04-Jan-2024 06:33:11 Europe/Istanbul] PHP Warning:  Undefined variable $from_name in /home/u1534180/public_html/mail_handler.php on line 47

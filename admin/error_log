@@ -1,0 +1,19 @@
+[11-Dec-2023 17:13:18 Europe/Istanbul] PHP Warning:  move_uploaded_file(../images/galeri/photo1701775314 (1).jpeg): Failed to open stream: No such file or directory in /home/u1534180/public_html/admin/dosya_yukle2.php on line 11
+[11-Dec-2023 17:13:18 Europe/Istanbul] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phphqs2ev' to '../images/galeri/photo1701775314 (1).jpeg' in /home/u1534180/public_html/admin/dosya_yukle2.php on line 11
+[11-Dec-2023 17:13:38 Europe/Istanbul] PHP Warning:  move_uploaded_file(../images/galeri/menu.png): Failed to open stream: No such file or directory in /home/u1534180/public_html/admin/dosya_yukle2.php on line 11
+[11-Dec-2023 17:13:38 Europe/Istanbul] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpA921Y7' to '../images/galeri/menu.png' in /home/u1534180/public_html/admin/dosya_yukle2.php on line 11
+[11-Dec-2023 17:15:37 Europe/Istanbul] PHP Warning:  move_uploaded_file(../images/galeri/Mokoto.png): Failed to open stream: No such file or directory in /home/u1534180/public_html/admin/dosya_yukle2.php on line 11
+[11-Dec-2023 17:15:37 Europe/Istanbul] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpjYrEXx' to '../images/galeri/Mokoto.png' in /home/u1534180/public_html/admin/dosya_yukle2.php on line 11
+[11-Dec-2023 17:16:10 Europe/Istanbul] PHP Warning:  move_uploaded_file(../images/galeri/menu.png): Failed to open stream: No such file or directory in /home/u1534180/public_html/admin/dosya_yukle2.php on line 11
+[11-Dec-2023 17:16:10 Europe/Istanbul] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpev3zCk' to '../images/galeri/menu.png' in /home/u1534180/public_html/admin/dosya_yukle2.php on line 11
+[11-Dec-2023 17:19:10 Europe/Istanbul] PHP Warning:  move_uploaded_file(../images/galeri/menu.png): Failed to open stream: Success in /home/u1534180/public_html/admin/dosya_yukle2.php on line 11
+[11-Dec-2023 17:19:10 Europe/Istanbul] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/php3s4t9p' to '../images/galeri/menu.png' in /home/u1534180/public_html/admin/dosya_yukle2.php on line 11
+[11-Dec-2023 17:19:10 Europe/Istanbul] PHP Warning:  move_uploaded_file(../images/galeri/Mokoto.png): Failed to open stream: No such file or directory in /home/u1534180/public_html/admin/dosya_yukle2.php on line 11
+[11-Dec-2023 17:19:10 Europe/Istanbul] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpZA76oT' to '../images/galeri/Mokoto.png' in /home/u1534180/public_html/admin/dosya_yukle2.php on line 11
+[11-Dec-2023 17:21:06 Europe/Istanbul] PHP Warning:  Undefined variable $klasor_yolu in /home/u1534180/public_html/admin/dosya_yukle2.php on line 7
+[11-Dec-2023 17:21:06 Europe/Istanbul] PHP Warning:  move_uploaded_file(menu.png): Failed to open stream: No such file or directory in /home/u1534180/public_html/admin/dosya_yukle2.php on line 9
+[11-Dec-2023 17:21:06 Europe/Istanbul] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpeLO4Ab' to 'menu.png' in /home/u1534180/public_html/admin/dosya_yukle2.php on line 9
+[11-Dec-2023 17:27:35 Europe/Istanbul] PHP Warning:  move_uploaded_file(../images/galeri/menu.png): Failed to open stream: No such file or directory in /home/u1534180/public_html/admin/dosya_yukle2.php on line 13
+[11-Dec-2023 17:27:35 Europe/Istanbul] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpVdMlKI' to '../images/galeri/menu.png' in /home/u1534180/public_html/admin/dosya_yukle2.php on line 13
+[11-Dec-2023 17:27:47 Europe/Istanbul] PHP Warning:  move_uploaded_file(../images/galeri/menu.png): Failed to open stream: Success in /home/u1534180/public_html/admin/dosya_yukle2.php on line 13
+[11-Dec-2023 17:27:47 Europe/Istanbul] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpFj3rOF' to '../images/galeri/menu.png' in /home/u1534180/public_html/admin/dosya_yukle2.php on line 13
